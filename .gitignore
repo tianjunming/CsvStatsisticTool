@@ -1,0 +1,11 @@
+# Build results
+bin/
+obj/
+publish/
+
+# Large test data
+CsvGenerator/large_test_data.csv
+
+# IDE
+.vs/
+*.user
